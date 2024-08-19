@@ -21,12 +21,7 @@ Uma designer curiosa  que sempre conviveu com tecnologia, mas apostou na arte co
         <span> - 🕹️ I’m looking to collaborate on ... 👾 Game development, game design and 3D</span>
 </div>
 
-<div align="left">
-         <br>
-         <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lepleen&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-         <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lepleen&layout=compact&theme=blueberry&&include_all_commits=true&count_private=true"/>
-</div>
-      
+
 
 </div>
 
