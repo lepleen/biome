@@ -27,8 +27,8 @@ Uma designer curiosa  que sempre conviveu com tecnologia, mas apostou na arte co
 
 <div align="left">
   <a href="https://github.com/lepleen">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tokyonight&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokyonight&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lepleen&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lepleen&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
 <div display="inline-block">
