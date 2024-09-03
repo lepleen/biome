@@ -23,7 +23,7 @@ Uma designer curiosa  que sempre conviveu com tecnologia, mas apostou na arte co
 
 
 
-<div display="none" align="left">
+<div align="left">
   <a href="https://github.com/lepleen">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lepleen&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lepleen&layout=compact&langs_count=7&theme=transparent"/>
@@ -32,7 +32,7 @@ Uma designer curiosa  que sempre conviveu com tecnologia, mas apostou na arte co
 
 <div display="inline-block">
          <h2>Tools:</h2>
-         <img height="20px" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the badge&logo=Adobe%20after%20effects&logoColor=393665" />
+         <img height="20px" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" />
          <img  height="20px" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
          <img height="20px" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
          <img  height="20px" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
