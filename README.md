@@ -19,6 +19,7 @@ Uma designer curiosa  que sempre conviveu com tecnologia, mas apostou na arte co
          <span> - 💻 I’m currently working on ... Web design, Design and game </span><br>
          <span>- 📚 I’m currently learning ... Web design, Game development and 3d</span><br>
         <span> - 🕹️ I’m looking to collaborate on ... 👾 Game development, game design and 3D</span>
+         <br/>
 </div>
 
 
