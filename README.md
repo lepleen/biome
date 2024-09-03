@@ -11,7 +11,7 @@
 
 ![](https://komarev.com/ghpvc/?username=lepleen&style=flat-square) 👩‍ 💻 🐈 🕹️
 
-Uma designer curiosa  que sempre conviveu com tecnologia, mas apostou na arte como sentido da vida, sou apaixonada por historias e experiencias diferentes, adoro video games, aprender e observar o mundo ao meu redor as realidades diferentes da minha, fique a  vontade para explorar, pois eu sempre estou explorando tambem.
+Uma designer curiosa  que sempre conviveu com tecnologia, mas apostou na arte como sentido da vida, sou apaixonada por historias e experiencias diferentes adoro video games, aprender e observar o mundo ao meu redor as realidades diferentes da minha fique a  vontade para explorar, pois eu sempre estou explorando tambem.
 
 
 <div>
